@@ -1,3 +1,3 @@
 # Contributing
 
-All contributions are welcome, including bug reports, bug fixes, documentation improvements, enhancements, and ideas.
+Все вклады, отчеты об ошибках, исправления ошибок, улучшения документации, улучшения и идеи приветствуются.
